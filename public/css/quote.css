@@ -1,0 +1,10 @@
+ body { 
+            margin:0;
+			padding:0;
+			font-family: Arial, Verdana, Helvetica, sans-serif; 
+			font-size: 12px; 
+			line-height: 25px; 
+			color:#666; 
+			text-align: justify; 
+			 background-image:url('../images/bg-page.gif');  
+		}
